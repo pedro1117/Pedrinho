@@ -1,7 +1,7 @@
 # Pedrinho
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é Marcelo Paludetto
+Meu nome é Pedro Henrique 
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -11,6 +11,5 @@ Meu nome é Marcelo Paludetto
 
 paludettomarcelo@gmail.com
 
-@marcelopaludetto
-
-![descrição do GIF](link GIF do Tenor)
+@pedroh1117
+https://tenor.com/pt-PT/view/crgif7-cristiano-cristiano-ronaldo-suii-ronaldo-suiii-gif-1661527412980678359
