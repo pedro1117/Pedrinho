@@ -9,7 +9,5 @@ Meu nome é Pedro Henrique
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
-
 @pedroh1117
 https://tenor.com/pt-PT/view/crgif7-cristiano-cristiano-ronaldo-suii-ronaldo-suiii-gif-1661527412980678359
